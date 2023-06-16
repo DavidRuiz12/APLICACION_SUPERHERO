@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="paises">
+        <item>España</item>
+        <item>Alemania</item>
+        <item>Francia</item>
+        <item>Japón</item>
+    </array>
+
+    <array name="sexo">
+        <item>Hombre</item>
+        <item>Mujer</item>
+        <item>No binario</item>
+    </array>
+</resources>

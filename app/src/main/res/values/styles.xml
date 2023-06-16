@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SettingContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="constraint_main">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@drawable/af</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+</resources>
